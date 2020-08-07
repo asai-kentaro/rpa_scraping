@@ -1,15 +1,11 @@
 {
-  "name": "ccwinshell",
+  "name": "rpa_scraping",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "rebuild": "npm rebuild --runtime=electron --target=v9.0.0 --disturl=https://atom.io/download/atom-shell --abi=80"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "puppeteer-core": "^5.2.1"
   }
